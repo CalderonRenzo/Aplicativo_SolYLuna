@@ -1,7 +1,7 @@
 
 package sol_y_luna.utp.edu.pe.model.dto;
 
-
+//Clase Servicio creado
 public class Servicio {
     
     private Integer id;

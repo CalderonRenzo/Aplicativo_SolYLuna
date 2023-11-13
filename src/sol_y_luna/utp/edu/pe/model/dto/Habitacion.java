@@ -1,7 +1,7 @@
 
 package sol_y_luna.utp.edu.pe.model.dto;
 
-
+//Clase Habitacion Agregado
 public class Habitacion {
     
     private Integer nroHabitacion;

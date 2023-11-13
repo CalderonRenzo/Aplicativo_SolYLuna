@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-
+//clase ClienteDao creado
 public class ClienteDao extends DataSource {
 
     public boolean registrarCliente(Cliente cliente) {

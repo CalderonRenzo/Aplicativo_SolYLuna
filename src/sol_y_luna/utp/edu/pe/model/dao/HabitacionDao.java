@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-
+//clase HabitacionDao creado
 public class HabitacionDao extends DataSource {
 
     public boolean crearHabitacion(Habitacion habitacion) {

@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import sol_y_luna.utp.edu.pe.model.dto.VisitaReporte;
-
+//clase VisitaDao creado
 
 public class VisitaDao extends DataSource {
 

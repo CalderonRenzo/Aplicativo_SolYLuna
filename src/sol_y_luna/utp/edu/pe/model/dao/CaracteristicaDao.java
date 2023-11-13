@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import sol_y_luna.utp.edu.pe.model.dto.CaracteristicaServicio;
 
-
+//clase caracteristicaDao creado
 public class CaracteristicaDao extends DataSource {
 
     public List<CaracteristicaServicio> buscarServicios(Integer numHabitacion) {

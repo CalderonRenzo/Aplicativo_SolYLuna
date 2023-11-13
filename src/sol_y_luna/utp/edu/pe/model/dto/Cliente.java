@@ -1,7 +1,7 @@
 
 package sol_y_luna.utp.edu.pe.model.dto;
 
-
+//Clase Cliente Agregado
 public class Cliente {
     
     private Integer id;

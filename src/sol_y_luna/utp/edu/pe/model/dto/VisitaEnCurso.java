@@ -1,7 +1,7 @@
 
 package sol_y_luna.utp.edu.pe.model.dto;
 
-
+//Clase VisitaEnCurso creado
 public class VisitaEnCurso extends Visita{
     
     private String cliente;

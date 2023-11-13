@@ -9,7 +9,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 import sol_y_luna.utp.edu.pe.model.dto.Usuario;
-
+//clase UsuarioDao creado
 public class UsuarioDao extends DataSource {
 
     public Usuario validarUsuario(Usuario usuario) {

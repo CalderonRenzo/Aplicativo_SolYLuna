@@ -2,7 +2,7 @@
 package sol_y_luna.utp.edu.pe.model.dto;
 
 import java.util.Date;
-
+//Clase Visita creado
 public class Visita {
     
     private Integer id;

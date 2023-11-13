@@ -1,7 +1,7 @@
 
 package sol_y_luna.utp.edu.pe.model.dto;
 
-
+//Clase Usuario creado
 public class Usuario {
 
     private Integer idUsuario;
